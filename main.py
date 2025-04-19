@@ -1,5 +1,5 @@
 
-Set Up
+# model training, evaluation, and model registry
 
 # Import Libraries
 import boto3
